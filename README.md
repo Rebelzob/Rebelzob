@@ -1,4 +1,4 @@
-![Banner](Karim%20b.png)
+![Banner](Karim%20banner.png)
 
 # 💫 About Me:
 Hi, I'm Karim, a full-stack developer currently enrolled in Microverse, a remote software development program.
